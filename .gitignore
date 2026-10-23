@@ -1,0 +1,10 @@
+node_modules
+.yle-news-state.db
+scripts
+node_modules/
+dist/
+*.db
+state.json
+.env
+__pycache__/
+.venv/

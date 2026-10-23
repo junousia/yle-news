@@ -1,0 +1,7 @@
+src/
+tests/
+vitest.config.ts
+tsconfig.json
+.github/
+.gitignore
+.yle-news-state.db
