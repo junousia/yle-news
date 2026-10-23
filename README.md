@@ -4,7 +4,7 @@ Fetch, track and search news from 50+ [Yle](https://yle.fi/rss) RSS feeds with S
 
 ## Install
 
-Requires Node.js 18+ (CI covers 18, 20 and 22).
+Requires Node.js 20+ (CI covers 20, 22 and 24).
 
 ```bash
 git clone https://github.com/junousia/yle-news.git

@@ -30,5 +30,8 @@
     "prompts": "^2.4.2",
     "rss-parser": "^3.13.0",
     "sqlite3": "^5.1.7"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }
