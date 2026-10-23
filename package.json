@@ -15,9 +15,10 @@
     "yle",
     "news",
     "rss",
-    "finland"
+    "sqlite",
+    "agent-skill"
   ],
-  "author": "",
+  "author": "Jukka Nousiainen",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^25.3.2",
@@ -33,5 +34,24 @@
   },
   "engines": {
     "node": ">=20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junousia/yle-news.git"
+  },
+  "homepage": "https://github.com/junousia/yle-news#readme",
+  "bugs": {
+    "url": "https://github.com/junousia/yle-news/issues"
+  },
+  "files": [
+    "scripts",
+    "references",
+    "SKILL.md",
+    "README.md",
+    "LICENSE"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
   }
 }
